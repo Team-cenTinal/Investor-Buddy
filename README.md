@@ -13,7 +13,7 @@ Robert Kiyosaki once said:
 
 ---
 
-##TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. [Description](#description)
 2. [Contributors](#contributors)
@@ -23,27 +23,27 @@ Robert Kiyosaki once said:
 
 ---
 <a name="description"></a>
-##DESCRIPTION
+## DESCRIPTION
 
 ---
 <a name="contributors"></a>
-##CONTRIBUTORS
+## CONTRIBUTORS
 
-1. Praveen Kumar Yadav
-2. Darshpreet Uppal
-3. Prashant Kumar Bhaiya
-4. Pragya Bansal
+1. Praveen Kumar Yadav praveenyadav340@gmail.com
+2. Darshpreet Uppal 20bph004@nith.ac.in
+3. Prashant Kumar Bhaiya 20dec002@nith.ac.in
+4. Pragya Bansal 20bph023@nith.ac.in
 
 ---
 <a name="technology"></a>
-##TECHNOLOGY
+## TECHNOLOGY
 
 ---
 <a name="how-to-use"></a>
-##HOW TO USE
+## HOW TO USE
 
 ---
 <a name="license"></a>
-##LICENSE
+## LICENSE
 
 MIT License
