@@ -22,11 +22,11 @@ Robert Kiyosaki once said:
 5. [License](#license)
 
 ---
-< a name="description"></a>
+<a name="description"></a>
 ##DESCRIPTION
 
 ---
-< a name="contributors"></a>
+<a name="contributors"></a>
 ##CONTRIBUTORS
 
 1. Praveen Kumar Yadav
@@ -35,15 +35,15 @@ Robert Kiyosaki once said:
 4. Pragya Bansal
 
 ---
-< a name="technology"></a>
+<a name="technology"></a>
 ##TECHNOLOGY
 
 ---
-< a name="how-to-use"></a>
+<a name="how-to-use"></a>
 ##HOW TO USE
 
 ---
-< a name="license"></a>
+<a name="license"></a>
 ##LICENSE
 
 MIT License
