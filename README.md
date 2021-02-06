@@ -27,11 +27,15 @@ Warren Buffett once said:
 It is a website where you will be able to estimate your future returns from various schemes such as:
 
 1.NPS(National Pension Scheme)
+
 2.SIP(Systematic Investment Plan)
+
 3.PPFs(Public Provident Funds)
+
 4.Saving options
 
 There is also a basic and safer investment plan available based on your salary to provide you maximum returns.
+
 ---
 <a name="contributors"></a>
 ## CONTRIBUTORS
