@@ -1,2 +1,27 @@
-# Investor-Buddy
-Created for Electrothon 3.0
+# INVESTOR-BUDDY
+
+**version 1.0.0**
+
+---
+
+##TABLE OF CONTENTS
+
+---
+
+##DESCRIPTION
+
+---
+
+##CONTRIBUTORS
+
+---
+
+##TECHNOLOGY
+
+---
+
+##HOW TO USE
+
+---
+
+##LICENSE
