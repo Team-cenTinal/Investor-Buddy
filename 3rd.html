@@ -11,7 +11,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Currency--Your Markrt Buddy</title>
+    <title>InvestorBuddy.com</title>
     <style>
         #pp{
              align-content: center;
@@ -88,9 +88,115 @@
             </div>
             
             <div class="form-group">
-                <a href="4th page.html"><button type="button" class="btn btn-block create-account jk">Get A Plan</button></a>
+                <button type="button"  onclick=clicked(); class="btn btn-block create-account jk">Get A Plan</button>
             </div>
         </form>
+
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th colspan=5 style="text-align:center"><h3>National Pension Scheme</h3></th>
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Total Investment:</th>
+              <td id="npsti">  </td>
+            </tr>
+            <tr>
+              <th scope="row">Interest Earned:</th>
+              <td id="npsie"></td>
+              
+            </tr>
+            <tr>
+              <th scope="row">Maturity Amount:</th>
+              <td id="npsma"></td>
+            </tr>
+            <tr>
+              <th scope="row">Annuity investment:</th>
+              <td id ="npsai"></td>
+            </tr>
+
+          </tbody>
+        </table>
+        <table class="table">
+          <thead>
+            <tr>
+              <th colspan=5 style="text-align:center"><h3>Saving Calculator</h3></th>
+              
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Total Investment:</th>
+              <td id="scti">  </td>
+            </tr>
+            <tr>
+              <th scope="row">Interest Earned:</th>
+              <td id="scie"></td>
+              
+            </tr>
+            <tr>
+              <th scope="row">Total Value:</th>
+              <td id="sctv"></td>
+            </tr>
+          </tbody>
+        </table>
+       
+       
+        <table class="table">
+          <thead>
+            <tr>
+              <th colspan=5 style="text-align:center"><h3>Systematic Investment Plan</h3></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Total Investment:</th>
+              <td id="sipti">  </td>
+            </tr>
+            <tr>
+              <th scope="row">Interest Earned:</th>
+              <td id="sipie"></td>
+              
+            </tr>
+            <tr>
+              <th scope="row">Total value:</th>
+              <td id="siptv"></td>
+            </tr>
+
+          </tbody>
+        </table>
+        
+        
+        
+        <table class="table">
+          <thead>
+            <tr>
+              <th colspan=5 style="text-align:center"><h3>Public Provident Fund</h3></th>
+              
+            </tr>
+          </thead>
+        
+        
+          <tbody>
+            <tr>
+              <th scope="row">Total Investment:</th>
+              <td id="ppfti">  </td>
+            </tr>
+            <tr>
+              <th scope="row">Interest Earned:</th>
+              <td id="ppfie"></td>
+              
+            </tr>
+            <tr>
+              <th scope="row">Total Value:</th>
+              <td id="ppftv"></td>
+            </tr>
+          </tbody>
+        </table>
        
     </div>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
