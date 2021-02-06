@@ -7,8 +7,8 @@ wealth and plans accordingly.
 
 Warren Buffett once said:
 
->“If you don’t find a way to make money while you sleep,
->you will work until you die.”
+>“*If you don’t find a way to make money while you sleep*,
+>*you will work until you die*.”
 
 ---
 
@@ -26,15 +26,15 @@ Warren Buffett once said:
 
 It is a website where you will be able to estimate your future returns from various schemes such as:
 
-1.NPS(National Pension Scheme)
+1.**NPS(National Pension Scheme)**
 
-2.SIP(Systematic Investment Plan)
+2.**SIP(Systematic Investment Plan)**
 
-3.PPFs(Public Provident Funds)
+3.**PPFs(Public Provident Funds)**
 
-4.Saving options
+4.**Saving Options**
 
-There is also a basic and safer investment plan available based on your salary to provide you maximum returns.
+*There is also a basic and safer investment plan available based on your salary to provide you maximum returns*.
 
 ---
 <a name="contributors"></a>
@@ -53,7 +53,17 @@ There is also a basic and safer investment plan available based on your salary t
 <a name="how-to-use"></a>
 ## HOW TO USE
 
+STEP1: ADD REQUIRED FIELDS.
+
+STEP2: CHOOSE A SCHEME.
+
+STEP3: GET YOUR PLAN.
+
 ![alt text](image/img1.jpeg)
+![alt text](image/img2.jpeg)
+![alt text](image/img3.jpeg)
+
+**Kindly REFRESH after each PLAN**
 
 ---
 <a name="license"></a>
