@@ -1,6 +1,6 @@
 # INVESTOR-BUDDY
 
-**version 1.0.0**
+**Version 1.0.0**
 
 A platform that gives you a peek into the future revealing how your investments will perform so that you can manage you 
 wealth and plans accordingly.
@@ -22,11 +22,11 @@ Robert Kiyosaki once said:
 5. [License](#license)
 
 ---
-
+< a name="description"></a>
 ##DESCRIPTION
 
 ---
-
+< a name="contributors"></a>
 ##CONTRIBUTORS
 
 1. Praveen Kumar Yadav
@@ -35,15 +35,15 @@ Robert Kiyosaki once said:
 4. Pragya Bansal
 
 ---
-
+< a name="technology"></a>
 ##TECHNOLOGY
 
 ---
-
+< a name="how-to-use"></a>
 ##HOW TO USE
 
 ---
-
+< a name="license"></a>
 ##LICENSE
 
 MIT License
