@@ -16,9 +16,8 @@ Warren Buffett once said:
 
 1. [Description](#description)
 2. [Contributors](#contributors)
-3. [Technology](#technology)
-4. [How to use](#how-to-use)
-5. [License](#license)
+3. [How to use](#how-to-use)
+4. [License](#license)
 
 ---
 <a name="description"></a>
@@ -26,13 +25,10 @@ Warren Buffett once said:
 
 It is a website where you will be able to estimate your future returns from various schemes such as:
 
-1.**NPS(National Pension Scheme)**
-
-2.**SIP(Systematic Investment Plan)**
-
-3.**PPFs(Public Provident Funds)**
-
-4.**Saving Options**
+1. **NPS(National Pension Scheme)**
+2. **SIP(Systematic Investment Plan)**
+3. **PPFs(Public Provident Funds)**
+4. **Saving Options**
 
 *There is also a basic and safer investment plan available based on your salary to provide you maximum returns*.
 
@@ -44,10 +40,6 @@ It is a website where you will be able to estimate your future returns from vari
 2. Darshpreet Uppal 20bph004@nith.ac.in
 3. Prashant Kumar Bhaiya 20dec002@nith.ac.in
 4. Pragya Bansal 20bph023@nith.ac.in
-
----
-<a name="technology"></a>
-## TECHNOLOGY
 
 ---
 <a name="how-to-use"></a>
