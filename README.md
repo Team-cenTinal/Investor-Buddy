@@ -1,11 +1,11 @@
-# INVESTOR-BUDDY
+# InvestorBuddy
 
 **Version 1.0.0**
 
 A platform that gives you a peek into the future revealing how your investments will perform so that you can manage you 
 wealth and plans accordingly.
 
-Warren Buffett once said
+Warren Buffett once said:
 >“If you don’t find a way to make money while you sleep,
 >you will work until you die.”
 
