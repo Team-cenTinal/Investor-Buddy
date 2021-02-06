@@ -6,9 +6,9 @@ A platform that gives you a peek into the future revealing how your investments 
 wealth and plans accordingly.
 
 Robert Kiyosaki once said:
->"It's not how much money you make
->but how much money you invest
->how hard it works for you
+>"It's not how much money you make,
+>but how much money you invest,
+>how hard it works for you,
 >and how many generations you keep it for."
 
 ---
@@ -47,3 +47,5 @@ Robert Kiyosaki once said:
 ## LICENSE
 
 MIT License
+
+Copyright (c) 2021 Team-cenTinal
