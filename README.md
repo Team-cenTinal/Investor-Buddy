@@ -53,6 +53,8 @@ There is also a basic and safer investment plan available based on your salary t
 <a name="how-to-use"></a>
 ## HOW TO USE
 
+![alt text](image/img1.jpeg)
+
 ---
 <a name="license"></a>
 ## LICENSE
