@@ -6,14 +6,20 @@ A platform that gives you a peek into the future revealing how your investments 
 wealth and plans accordingly.
 
 Robert Kiyosaki once said:
->"It's not how much money you make,
->but how much money you invest, 
->how hard it works for you,
+>"It's not how much money you make
+>but how much money you invest
+>how hard it works for you
 >and how many generations you keep it for."
 
 ---
 
 ##TABLE OF CONTENTS
+
+1. [Description](#description)
+2. [Contributors](#contributors)
+3. [Technology](#technology)
+4. [How to use](#how-to-use)
+5. [License](#license)
 
 ---
 
@@ -22,6 +28,11 @@ Robert Kiyosaki once said:
 ---
 
 ##CONTRIBUTORS
+
+1. Praveen Kumar Yadav
+2. Darshpreet Uppal
+3. Prashant Kumar Bhaiya
+4. Pragya Bansal
 
 ---
 
@@ -34,3 +45,5 @@ Robert Kiyosaki once said:
 ---
 
 ##LICENSE
+
+MIT License
