@@ -12,15 +12,13 @@ function clicked() {
 
         let age = document.getElementById("age").value;
 
-
+        document.getElementById("npstable").style.visibility = "collapse";
+        document.getElementById("siptable").style.visibility = "collapse";
+        document.getElementById("ppftable").style.visibility = "collapse";
+        document.getElementById("sctable").style.visibility = "collapse";
 
         function nps(month1, age) {
-                if((document.getElementById("npstable").style.visibility = "visible")==0){
-                document.getElementById("npstable").style.visibility = "hidden";
-                }
-                else{
-                        document.getElementById("npstable").style.visibility = "visible";   
-                }
+                document.getElementById("npstable").style.visibility = "visible";   
                 time1 = 60 - age;
                 npsamount = month1 * ((1 + (10 / 1200)) ** (12 * time1)) / (10 / 1200);
                 npsti = month1 * 12 * time1;
