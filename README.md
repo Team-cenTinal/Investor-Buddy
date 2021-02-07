@@ -37,7 +37,11 @@ It is a website where you will be able to estimate your future returns from vari
 <a name="demo-link"></a>
 ## DEMO LINK
 
+1. Video Demo:
 https://drive.google.com/file/d/1GKZaOZeugkaG7a9vDFAQMprOoWvz9IZp/view?usp=sharing
+
+2. Ppt link:
+https://github.com/Team-cenTinal/Investor-Buddy/blob/main/Final%20Electrothonpitch.pptx
 
 ---
 <a name="contributors"></a>
