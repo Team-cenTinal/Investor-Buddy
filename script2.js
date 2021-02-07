@@ -15,7 +15,12 @@ function clicked() {
 
 
         function nps(month1, age) {
-                document.getElementById("npstable").style.visibility = "visible";
+                if((document.getElementById("npstable").style.visibility = "visible")==0){
+                document.getElementById("npstable").style.visibility = "hidden";
+                }
+                else{
+                        document.getElementById("npstable").style.visibility = "visible";   
+                }
                 time1 = 60 - age;
                 npsamount = month1 * ((1 + (10 / 1200)) ** (12 * time1)) / (10 / 1200);
                 npsti = month1 * 12 * time1;
