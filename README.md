@@ -6,8 +6,9 @@ A platform that gives you a peek into the future revealing how your investments 
 wealth and plans accordingly.
 
 Warren Buffett once said:
->“If you don’t find a way to make money while you sleep,
->you will work until you die.”
+
+>“*If you don’t find a way to make money while you sleep*,
+>*you will work until you die*.”
 
 ---
 
@@ -15,13 +16,21 @@ Warren Buffett once said:
 
 1. [Description](#description)
 2. [Contributors](#contributors)
-3. [Technology](#technology)
-4. [How to use](#how-to-use)
-5. [License](#license)
+3. [How to use](#how-to-use)
+4. [License](#license)
 
 ---
 <a name="description"></a>
 ## DESCRIPTION
+
+It is a website where you will be able to estimate your future returns from various schemes such as:
+
+1. **NPS(National Pension Scheme)**
+2. **SIP(Systematic Investment Plan)**
+3. **PPFs(Public Provident Funds)**
+4. **Saving Options**
+
+*There is also a basic and safer investment plan available based on your salary to provide you maximum returns*.
 
 ---
 <a name="contributors"></a>
@@ -33,12 +42,20 @@ Warren Buffett once said:
 4. Pragya Bansal 20bph023@nith.ac.in
 
 ---
-<a name="technology"></a>
-## TECHNOLOGY
-
----
 <a name="how-to-use"></a>
 ## HOW TO USE
+
+STEP1: ADD REQUIRED FIELDS.
+
+STEP2: CHOOSE A SCHEME.
+
+STEP3: GET YOUR PLAN.
+
+![alt text](image/img1.jpeg)
+![alt text](image/img2.jpeg)
+![alt text](image/img3.jpeg)
+
+**Kindly REFRESH after each PLAN**
 
 ---
 <a name="license"></a>
