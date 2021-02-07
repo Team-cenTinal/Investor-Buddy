@@ -55,8 +55,6 @@ STEP3: GET YOUR PLAN.
 ![alt text](image/img2.jpeg)
 ![alt text](image/img3.jpeg)
 
-**Kindly REFRESH after each PLAN**
-
 ---
 <a name="license"></a>
 ## LICENSE
